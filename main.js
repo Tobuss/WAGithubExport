@@ -7,7 +7,8 @@ const instance = axios.create({
     "x-auth-token": process.env.WA_AUTH_TOKEN,
     "x-application-key": process.env.WA_APP_KEY,
     "Content-Type": "application/json",
-    "User-Agent": "WAGithubExport ( https://github.com/zuedev/WAGithubExport, 0.0.1 )",
+    "User-Agent":
+      "WAGithubExport ( https://github.com/zuedev/WAGithubExport, 0.0.1 )",
   },
 });
 
