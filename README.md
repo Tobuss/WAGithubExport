@@ -19,7 +19,7 @@ Your repository should start backing up your worlds every day at midnight.
 
 ## TODO
 
-- [x] Initial functionality
+- [x] Initial functionality (all worlds' articles to json)
 - [ ] Include user metadata (bio, avatar, etc.)
 - [ ] Include world metadata (intro, world date, etc.)
 - [ ] Include more than articles (timelines, maps, images, etc.)
