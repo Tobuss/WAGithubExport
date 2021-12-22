@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Autobackup
         with:
           WA_AUTH_TOKEN: ${{ secrets.WA_AUTH_TOKEN }}
           WA_APP_KEY: ${{ secrets.WA_APP_KEY }}
