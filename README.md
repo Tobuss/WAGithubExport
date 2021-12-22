@@ -4,7 +4,7 @@ A self-updating GitHub repository for backing up World Anvil worlds.
 
 An example repository of my worlds can be found here: https://github.com/zuedev/WAGithubExport-Zeurosa
 
-**Please keep in mind that this will make all of your world content public.**
+**Please keep in mind that this will make all of your world content public unless you make the repository private!**
 
 ## How to use
 
