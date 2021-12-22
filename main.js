@@ -22,11 +22,11 @@ if (!process.env.WA_AUTH_TOKEN || !process.env.WA_APP_KEY) {
             res.data.articles.forEach((article) => {
               instance.get(`/article/${article.id}`).then((res) => {
                 fs.mkdir(
-                  `./export/${world.name}/${article.template_type}`,
+                  `./export/${world.name}/articles/${article.template_type}`,
                   { recursive: true },
                   () => {
                     fs.writeFileSync(
-                      `./export/${world.name}/${article.template_type}/${article.title}.json`,
+                      `./export/${world.name}/articles/${article.template_type}/${article.title}.json`,
                       JSON.stringify(res.data, null, 2)
                     );
                   }
