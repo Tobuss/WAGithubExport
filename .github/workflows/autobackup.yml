@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
+      - env:
           WA_AUTH_TOKEN: ${{ secrets.WA_AUTH_TOKEN }}
           WA_APP_KEY: ${{ secrets.WA_APP_KEY }}
-        run: npm run autobackup
+        run: git config --global user.email "autodeploy@local" && git config --global user.name "autodeploy" && npm install && npm run autobackup
