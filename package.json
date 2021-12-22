@@ -4,7 +4,7 @@
     "axios": "^0.24.0"
   },
   "scripts": {
-    "test": "export $(cat .env | xargs) && node main.js && rm -rf export/",
+    "test": "export $(cat .env | xargs) && node main.js",
     "autobackup": "node main.js && git add -A && git commit -m \"autobackup-$(date '+%y%m%d')\" && git push"
   }
 }
