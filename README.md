@@ -15,7 +15,7 @@ Just fork the repository and create the following two secrets:
 
 Then select "allow all actions" in your repository's "actions" settings.
 
-Your repository should start backing up your worlds to the `exports/` directory every day at midnight.
+Your repository should start backing up your worlds to the `exports/` directory every midnight.
 
 ## TODO
 
