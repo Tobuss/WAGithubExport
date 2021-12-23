@@ -13,4 +13,4 @@ jobs:
       - env:
           WA_AUTH_TOKEN: ${{ secrets.WA_AUTH_TOKEN }}
           WA_APP_KEY: ${{ secrets.WA_APP_KEY }}
-        run: git config --global user.email "autodeploy@local" && git config --global user.name "autodeploy" && npm install && npm run autobackup
+        run: npm install && sh autobackup.sh

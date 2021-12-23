@@ -5,7 +5,6 @@
     "download": "^8.0.0"
   },
   "scripts": {
-    "test": "export $(cat .env | xargs) && node main.js",
-    "autobackup": "node main.js && git add -A && git commit -m \"autobackup-$(date '+%y%m%d')\" && git push"
+    "test": "export $(cat .env | xargs) && node main.js"
   }
 }
