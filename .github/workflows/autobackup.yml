@@ -13,4 +13,4 @@ jobs:
       - env:
           WA_AUTH_TOKEN: ${{ secrets.WA_AUTH_TOKEN }}
           WA_APP_KEY: ${{ secrets.WA_APP_KEY }}
-        run: npm install && sh autobackup.sh
+        run: npm install && bash autobackup.bash
