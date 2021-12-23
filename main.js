@@ -12,31 +12,30 @@ const instance = axios.create({
   },
 });
 
-if (!process.env.WA_AUTH_TOKEN || !process.env.WA_APP_KEY) {
-  throw new Error("Error: Credentials not found");
-} else {
-  fs.rm("./export", { recursive: true, force: true }, () => {
-    instance.get("/user").then((res) => {
-      instance.get(`/user/${res.data.id}/worlds`).then((res) => {
-        res.data.worlds.forEach((world) => {
-          instance.get(`/world/${world.id}/articles`).then((res) => {
-            res.data.articles.forEach((article) => {
-              instance.get(`/article/${article.id}`).then((res) => {
-                fs.mkdir(
-                  `./export/${world.name}/articles/${article.template_type}`,
-                  { recursive: true },
-                  () => {
-                    fs.writeFileSync(
-                      `./export/${world.name}/articles/${article.template_type}/${article.title}.json`,
-                      JSON.stringify(res.data, null, 2)
-                    );
-                  }
-                );
-              });
-            });
-          });
-        });
-      });
+(async () => {
+  if (!process.env.WA_AUTH_TOKEN || !process.env.WA_APP_KEY)
+    throw new Error("Error: Credentials not found");
+
+  fs.rmSync("./export", { recursive: true, force: true });
+
+  const user = await instance.get("/user");
+  const worlds = await instance.get(`/user/${user.data.id}/worlds`);
+
+  worlds.data.worlds.forEach(async (world) => {
+    const articles = await instance.get(`/world/${world.id}/articles`);
+
+    articles.data.articles.forEach(async (article) => {
+      const articleData = await instance.get(`/article/${article.id}`);
+
+      fs.mkdirSync(
+        `./export/${article.world.name}/articles/${article.template_type}`,
+        { recursive: true }
+      );
+
+      fs.writeFileSync(
+        `./export/${article.world.name}/articles/${article.template_type}/${article.title}.json`,
+        JSON.stringify(articleData.data, null, 2)
+      );
     });
   });
-}
+})();
