@@ -1,0 +1,99 @@
+{
+  "id": "b0e95fc9-523a-4f86-ba9f-2e8a53f9a4b4",
+  "title": "Ha'ven",
+  "template": "location",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 4,
+  "creation_date": {
+    "date": "2021-12-15 23:49:29.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-16 00:28:38.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/ha-ven-location",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "061ff2ce-d0ad-41b8-b5f0-a36803ee461e",
+    "username": "zeurosa",
+    "url": "http://www.worldanvil.com/author/zeurosa",
+    "avatar": {
+      "id": 2811734,
+      "url": "http://www.worldanvil.com/uploads/images/af6dd777b8e415345a73bb53ba9b58f2.png"
+    }
+  },
+  "content": null,
+  "content_parsed": "",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    }
+  },
+  "relations": {
+    "children": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "382297fe-a097-4a8d-8207-09e27dee344d",
+          "title": "Norbury",
+          "slug": "norbury-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/norbury-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "a1898bc0-3f98-4b50-beec-1a39400d77b4",
+          "title": "Soubury",
+          "slug": "soubury-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/soubury-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+          "title": "Sovereign",
+          "slug": "sovereign-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    },
+    "type": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "2ce46971-5996-4aaf-a2d5-d0c65a4f9fca",
+        "title": "Continent",
+        "type": "locationtype",
+        "relationship_type": "",
+        "state": "null"
+      }
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-location article-b0e95fc9-523a-4f86-ba9f-2e8a53f9a4b4 \">\n                \n            <div class=\"row\">\n        <div class=\"col-md-8 article-content-left \">\n            <div class=\"user-css-vignette\"></div>\n\n            \n            \n            \n            \n\n                        \n            \n            \n            \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                                                \n\n\n                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n                        <div>\n\n                            \n                                                                <div id=\"486e40a7052653b8beea2680bc248c23\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Type\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Continent\n        </div>\n    </div>\n                            \n                            \n                            \n                                                                                                                                                <div id=\"ae6b854ad992465d06211c23affb2fcc\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Included Locations\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"39202cee9975201842a2b7912cc8cf38\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"382297fe-a097-4a8d-8207-09e27dee344d\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"382297fe-a097-4a8d-8207-09e27dee344d\"\n                                                                        href=\"/w/eldragiir/a/norbury-settlement\"   >Norbury</a>\n                            </li>\n                                                                                                 <li id=\"7d4b4e03adcea477f83f954ee7d9fa63\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"a1898bc0-3f98-4b50-beec-1a39400d77b4\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"a1898bc0-3f98-4b50-beec-1a39400d77b4\"\n                                                                        href=\"/w/eldragiir/a/soubury-settlement\"   >Soubury</a>\n                            </li>\n                                                                                                 <li id=\"2ab0c7db808e03e57f053ad1d4499378\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                                                        href=\"/w/eldragiir/a/sovereign-settlement\"   >Sovereign</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n\n                            \n\n                            \n                            \n                            \n                            \n                                                        \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n                                                        \n\n                            \n                            \n                        </div>\n                        \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                            </div>\n            </div>\n\n    </div>\n"
+}

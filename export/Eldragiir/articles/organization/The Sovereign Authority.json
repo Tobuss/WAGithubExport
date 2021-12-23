@@ -1,0 +1,298 @@
+{
+  "id": "843b7928-e3c2-44de-8a39-b8817e867071",
+  "title": "The Sovereign Authority",
+  "template": "organization",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 242,
+  "creation_date": {
+    "date": "2021-12-15 23:40:32.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-16 18:52:32.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/the-sovereign-authority-organization",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "061ff2ce-d0ad-41b8-b5f0-a36803ee461e",
+    "username": "zeurosa",
+    "url": "http://www.worldanvil.com/author/zeurosa",
+    "avatar": {
+      "id": 2811734,
+      "url": "http://www.worldanvil.com/uploads/images/af6dd777b8e415345a73bb53ba9b58f2.png"
+    }
+  },
+  "portrait": {
+    "id": 2899568,
+    "type": "image",
+    "url": "http://www.worldanvil.com/uploads/images/689879915621642219022d502edce3a5.png"
+  },
+  "content": "The Sovereign Authority, known in Sovarii as \"Sovereis Authorita,\" is composed of the dominions and protectorates ruled or administered by Sovereign. It began with the aggressive expansion of the city's borders that quickly encompassed the continent of Ha'ven. The controversial methods in which it was formed includes the hostile takeover of land as well as political manipulation of local powers. Under the order and supervision of the Sanguine King, the founder and current ruler of Sovereign, any opposition found to be in the way of the expansion was swiftly dashed by the supreme manpower and devotion of his Legions. Shortly after conquering Ha'ven, the King claimed himself the title of Bloodfather and formed the Ministry of Administration, also known in Sovarii as \"Adminus Ministorii.\"",
+  "content_parsed": "The Sovereign Authority, known in Sovarii as &quot;Sovereis Authorita,&quot; is composed of the dominions and protectorates ruled or administered by Sovereign. It began with the aggressive expansion of the city&#039;s borders that quickly encompassed the continent of Ha&#039;ven. The controversial methods in which it was formed includes the hostile takeover of land as well as political manipulation of local powers. Under the order and supervision of the Sanguine King, the founder and current ruler of Sovereign, any opposition found to be in the way of the expansion was swiftly dashed by the supreme manpower and devotion of his Legions. Shortly after conquering Ha&#039;ven, the King claimed himself the title of Bloodfather and formed the Ministry of Administration, also known in Sovarii as &quot;Adminus Ministorii.&quot;",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    },
+    "motto": {
+      "title": "",
+      "position": "",
+      "content": "Service is to die to ensure Sovereign lives",
+      "content_parsed": "Service is to die to ensure Sovereign lives"
+    },
+    "alternativeNames": {
+      "title": "",
+      "position": "",
+      "content": "Sovereis Authorita, The Empire of Sovereign",
+      "content_parsed": "Sovereis Authorita, The Empire of Sovereign"
+    },
+    "governmentsystem": {
+      "title": "",
+      "position": "",
+      "content": "Democracy, Representative",
+      "content_parsed": "Democracy, Representative"
+    },
+    "powerstructure": {
+      "title": "",
+      "position": "",
+      "content": "Provisional government",
+      "content_parsed": "Provisional government"
+    },
+    "economicsystem": {
+      "title": "",
+      "position": "",
+      "content": "Market economy",
+      "content_parsed": "Market economy"
+    },
+    "military": {
+      "title": "",
+      "position": "",
+      "content": "[h2]Empire Security Policy[/h2]\r\n\r\nThe emperor views his empire like the human body, his armies and agents its immune system fighting off pathogenic enemies and ideals.\r\n\r\n[ul]\r\n[li][b]Skin: [/b]Fortified borders.[/li]\r\n[li][b]Innate immune system: [/b]Local guard militia[/li]\r\n[li][b]Adaptable immune system: [/b]Professional military formations (Legions)[/li]\r\n[li][b]Dendritic cells: [/b]Justiciars[/li]\r\n[li][b]B-cells: [/b]Guardians of Sovereign[/li]\r\n[li][b]Memory cells: [/b]Spies? Garrisons?[/li]\r\n[li][b]Neutrophils: [/b]???[/li]\r\n[li][b]Helper T-cells: [/b]???[/li]\r\n[/ul]",
+      "content_parsed": "<h3>Empire Security Policy</h3>\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe emperor views his empire like the human body, his armies and agents its immune system fighting off pathogenic enemies and ideals.\n<span class=\"line-spacer d-block\">&nbsp;</span>\n<ul>\n<li><b>Skin: </b>Fortified borders.</li>\n<li><b>Innate immune system: </b>Local guard militia</li>\n<li><b>Adaptable immune system: </b>Professional military formations (Legions)</li>\n<li><b>Dendritic cells: </b>Justiciars</li>\n<li><b>B-cells: </b>Guardians of Sovereign</li>\n<li><b>Memory cells: </b>Spies? Garrisons?</li>\n<li><b>Neutrophils: </b>???</li>\n<li><b>Helper T-cells: </b>???</li>\n</ul>"
+    },
+    "foundingDate": {
+      "title": "",
+      "position": "",
+      "content": "4 PrC",
+      "content_parsed": "4 PrC"
+    }
+  },
+  "relations": {
+    "locations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "382297fe-a097-4a8d-8207-09e27dee344d",
+          "title": "Norbury",
+          "slug": "norbury-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/norbury-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "a1898bc0-3f98-4b50-beec-1a39400d77b4",
+          "title": "Soubury",
+          "slug": "soubury-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/soubury-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+          "title": "Sovereign",
+          "slug": "sovereign-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "31ac5e0b-43bd-4872-be46-9c71e1cfccaf",
+          "title": "sovereign-settlement-1-archived-1639611873sovereign-settlement-1-archived-1639611873",
+          "slug": "",
+          "url": "",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    },
+    "flag": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": 2899568,
+        "title": "kingdom-of-sovereign-coat.png",
+        "type": "image",
+        "relationship_type": "",
+        "state": "public"
+      }
+    },
+    "capital": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+        "title": "Sovereign",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "geographicLocation": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+        "title": "Reyal Imperium",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "statereligion": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "751455ee-0181-4a0f-8bbc-3ba352247c19",
+        "title": "Sanguinalum",
+        "type": "organization",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "type": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "f1d0eada-8b1e-407b-b092-698dee4e32cf",
+        "title": "Geopolitical, Empire",
+        "type": "organizationtype",
+        "relationship_type": "",
+        "state": "null"
+      }
+    },
+    "headofstate": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+        "title": "Wilcok the Impenetrable",
+        "type": "person",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "leadertitle": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "145c528c-0add-49d6-a5c1-9df579f0caae",
+        "title": "Sovereign Protectorate",
+        "type": "rank",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "headofgovernment": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "37ee36fc-ebf3-4227-b277-c5221314caad",
+        "title": "Luke Sanguinous",
+        "type": "person",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "organizationranks": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "145c528c-0add-49d6-a5c1-9df579f0caae",
+          "title": "Sovereign Protectorate",
+          "slug": "sovereign-protectorate-rank",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-protectorate-rank",
+          "relationship_type": "article",
+          "type": "rank"
+        }
+      ]
+    },
+    "otherpeople": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+          "title": "Wilcok the Impenetrable",
+          "slug": "wilcok-the-impenetrable-person",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/wilcok-the-impenetrable-person",
+          "relationship_type": "article",
+          "type": "person"
+        }
+      ]
+    },
+    "languages": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "d1574a6a-e67c-45e9-b418-2dc1c87cc9a6",
+          "title": "Sovarii",
+          "slug": "sovarii-language",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovarii-language",
+          "relationship_type": "article",
+          "type": "language"
+        }
+      ]
+    },
+    "predecessors": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "5880100b-1dc7-48a9-9a51-f56e758a99e0",
+          "title": "The Sanguine Kingdom",
+          "slug": "the-sanguine-kingdom-organization",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/the-sanguine-kingdom-organization",
+          "relationship_type": "article",
+          "type": "organization"
+        }
+      ]
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-organization article-843b7928-e3c2-44de-8a39-b8817e867071 \">\n                \n            <div class=\"row\">\n        <div class=\"col-md-8 article-content-left \">\n            <div class=\"user-css-vignette\">The Sovereign Authority, known in Sovarii as &quot;Sovereis Authorita,&quot; is composed of the dominions and protectorates ruled or administered by Sovereign. It began with the aggressive expansion of the city&#039;s borders that quickly encompassed the continent of Ha&#039;ven. The controversial methods in which it was formed includes the hostile takeover of land as well as political manipulation of local powers. Under the order and supervision of the Sanguine King, the founder and current ruler of Sovereign, any opposition found to be in the way of the expansion was swiftly dashed by the supreme manpower and devotion of his Legions. Shortly after conquering Ha&#039;ven, the King claimed himself the title of Bloodfather and formed the Ministry of Administration, also known in Sovarii as &quot;Adminus Ministorii.&quot;</div>\n                                                \n                                                            \t\t\t\t    <div id=\"ae1593954f7e85505b28e696e4fa6752\" class=\"visibility-toggler\">\n    \t\t\t    <h3 class=\"section-header-heading\">\n\t\t        \t\t            Military\n\t\t        \t\t    </h3>\n\t\t\t    <div class=\"section-payload\"><h3>Empire Security Policy</h3>\n<span class=\"line-spacer d-block\">&nbsp;</span>\nThe emperor views his empire like the human body, his armies and agents its immune system fighting off pathogenic enemies and ideals.\n<span class=\"line-spacer d-block\">&nbsp;</span>\n<ul>\n<li><b>Skin: </b>Fortified borders.</li>\n<li><b>Innate immune system: </b>Local guard militia</li>\n<li><b>Adaptable immune system: </b>Professional military formations (Legions)</li>\n<li><b>Dendritic cells: </b>Justiciars</li>\n<li><b>B-cells: </b>Guardians of Sovereign</li>\n<li><b>Memory cells: </b>Spies? Garrisons?</li>\n<li><b>Neutrophils: </b>???</li>\n<li><b>Helper T-cells: </b>???</li>\n</ul></div>\n\t</div>\n                                                                                    \n\n                                                                                                                        \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                                \n                                    <div id=\"9f613b1a584e50206930b2aedeeaf36e\" class=\"visibility-toggler organization-flag\">\n                        <img class=\"img-fluid img-responsive m-b-20\" src=\"/uploads/images/689879915621642219022d502edce3a5.png\" alt=\"\">\n                    </div>\n                                                    <div id=\"c45974dcbab3c7b82a966b9726c7704e\" class=\"visibility-toggler organization-motto\">\n                        <div class=\"organization-motto text-center\">\n                            <h4><em>Service is to die to ensure Sovereign lives</em> </h4>\n                        </div>\n                    </div>\n                                \n                \n\n\n                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n                        <div>\n                                                                                                    <div id=\"e2d4304e6cf17ebc1dd98d69b2c719a6\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Founding Date\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            4 PrC\n        </div>\n    </div>\n                                                                                                                            <div id=\"4d953ef0cb49d1b2371073696578cbd5\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Type\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Geopolitical, Empire\n        </div>\n    </div>\n\n                                <div id=\"3d6a84c424983ea55807a571ea62b729\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Capital\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\" data-template-type=\"settlement\"  class=\"article-link\" data-article=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\" href=\"/w/eldragiir/a/sovereign-settlement\">Sovereign</a>\n                     </div>\n    </div>\n\n                                <div id=\"aeaeb0735961fe6c1ac8d0a3e7128e4b\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Alternative Names\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Sovereis Authorita, The Empire of Sovereign\n        </div>\n    </div>\n\n                                                                                                                <div id=\"ef9198ae5a162c60f839a38afb584cc3\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Predecessor Organization\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"701ef97eecd3cce7333edda1f48f22ff\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"5880100b-1dc7-48a9-9a51-f56e758a99e0\"\n                                    data-template-type=\"organization\"\n                                                                            class=\"article-link\" data-article=\"5880100b-1dc7-48a9-9a51-f56e758a99e0\"\n                                                                        href=\"/w/eldragiir/a/the-sanguine-kingdom-organization\"   >The Sanguine Kingdom</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n                                \n                                                                                        \n\n                            \n                                                        \n                            \n                            \n                                <div id=\"b588d6ec05fe746f132ef84e6fb268b5\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Leader Title\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"145c528c-0add-49d6-a5c1-9df579f0caae\" data-template-type=\"rank\"  class=\"article-link\" data-article=\"145c528c-0add-49d6-a5c1-9df579f0caae\" href=\"/w/eldragiir/a/sovereign-protectorate-rank\">Sovereign Protectorate</a>\n                     </div>\n    </div>\n\n                            \n                                <div id=\"1fa300bcdb28243535368e95b02b1246\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Head of State\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"72d0df82-381c-497a-aad5-8c253121cf7d\" data-template-type=\"person\"  class=\"article-link\" data-article=\"72d0df82-381c-497a-aad5-8c253121cf7d\" href=\"/w/eldragiir/a/wilcok-the-impenetrable-person\">Wilcok the Impenetrable</a>\n                     </div>\n    </div>\n\n                                <div id=\"0bc1face5a30dc741bc9c29aa0e961e3\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Head of Government\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"37ee36fc-ebf3-4227-b277-c5221314caad\" data-template-type=\"person\"  class=\"article-link\" data-article=\"37ee36fc-ebf3-4227-b277-c5221314caad\" href=\"/w/eldragiir/a/luke-sanguinous-person\">Luke Sanguinous</a>\n                     </div>\n    </div>\n\n\n                                <div id=\"260d100b74238c5fc5eccb7af41dd47b\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Government System\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Democracy, Representative\n        </div>\n    </div>\n                                <div id=\"54732db1a7c0efdadb523da5773012ca\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Power Structure\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Provisional government\n        </div>\n    </div>\n                                <div id=\"b741fe543b0297ad10b711fa5d0929e4\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Economic System\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Market economy\n        </div>\n    </div>\n                                                                                                                                            \n                            \n                                <div id=\"1eb93cac2e041231447b2cc1b4b210cf\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Official State Religion\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"751455ee-0181-4a0f-8bbc-3ba352247c19\" data-template-type=\"organization\"  class=\"article-link\" data-article=\"751455ee-0181-4a0f-8bbc-3ba352247c19\" href=\"/w/eldragiir/a/sanguinalum-organization\">Sanguinalum</a>\n                     </div>\n    </div>\n\n\n                            \n                            \n                            \n\n                            \n                            \n                                <div id=\"89df3762e08a6f1f57882ed207fa8e40\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Location\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\" data-template-type=\"settlement\"  class=\"article-link\" data-article=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\" href=\"/w/eldragiir/a/reyal-imperium-settlement\">Reyal Imperium</a>\n                     </div>\n    </div>\n\n                                                                                <div id=\"86a58b9f1da8cbb18b9263d547f33ba1\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Official Languages\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"faa4b13981d0d9d04e3d46559cee9ce7\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"d1574a6a-e67c-45e9-b418-2dc1c87cc9a6\"\n                                    data-template-type=\"language\"\n                                                                            class=\"article-link\" data-article=\"d1574a6a-e67c-45e9-b418-2dc1c87cc9a6\"\n                                                                        href=\"/w/eldragiir/a/sovarii-language\"   >Sovarii</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                            \n                                                                                <div id=\"d626a5822841b5a84e6a704270698c5e\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Related Ranks &amp; Titles\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"e52bc58d8b645dd3cb610a757d521c7e\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"145c528c-0add-49d6-a5c1-9df579f0caae\"\n                                    data-template-type=\"rank\"\n                                                                            class=\"article-link\" data-article=\"145c528c-0add-49d6-a5c1-9df579f0caae\"\n                                                                        href=\"/w/eldragiir/a/sovereign-protectorate-rank\"   >Sovereign Protectorate</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                            \n                                                                                                                                                            <div id=\"430903dd17743bfcf7dca5e63a93cb28\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Controlled Territories\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"39202cee9975201842a2b7912cc8cf38\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"382297fe-a097-4a8d-8207-09e27dee344d\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"382297fe-a097-4a8d-8207-09e27dee344d\"\n                                                                        href=\"/w/eldragiir/a/norbury-settlement\"   >Norbury</a>\n                            </li>\n                                                                                                 <li id=\"7d4b4e03adcea477f83f954ee7d9fa63\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"a1898bc0-3f98-4b50-beec-1a39400d77b4\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"a1898bc0-3f98-4b50-beec-1a39400d77b4\"\n                                                                        href=\"/w/eldragiir/a/soubury-settlement\"   >Soubury</a>\n                            </li>\n                                                                                                 <li id=\"2ab0c7db808e03e57f053ad1d4499378\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                                                        href=\"/w/eldragiir/a/sovereign-settlement\"   >Sovereign</a>\n                            </li>\n                                                                                                         </ul>\n            </div>\n        </div>           \n    \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n                            \n\n                        </div>\n                        \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                                            </div>\n            </div>\n\n    </div>\n"
+}

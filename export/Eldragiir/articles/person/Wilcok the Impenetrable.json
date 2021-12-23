@@ -1,0 +1,268 @@
+{
+  "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+  "title": "Wilcok the Impenetrable",
+  "template": "person",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 30,
+  "creation_date": {
+    "date": "2021-12-15 23:39:02.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-16 00:48:48.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/wilcok-the-impenetrable-person",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "061ff2ce-d0ad-41b8-b5f0-a36803ee461e",
+    "username": "zeurosa",
+    "url": "http://www.worldanvil.com/author/zeurosa",
+    "avatar": {
+      "id": 2811734,
+      "url": "http://www.worldanvil.com/uploads/images/af6dd777b8e415345a73bb53ba9b58f2.png"
+    }
+  },
+  "portrait": {
+    "id": 2899603,
+    "url": "http://www.worldanvil.com/uploads/images/037f2b4d99df12427b3af65d1a7da9a8.png"
+  },
+  "content": null,
+  "content_parsed": "",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    },
+    "dobDisplay": {
+      "title": "",
+      "position": "",
+      "content": "21st of Janar, 106 PrC",
+      "content_parsed": "21st of Janar, 106 PrC"
+    },
+    "dob": {
+      "title": "",
+      "position": "",
+      "content": "-106",
+      "content_parsed": "-106"
+    },
+    "pronouns": {
+      "title": "",
+      "position": "",
+      "content": "He/him",
+      "content_parsed": "He/him"
+    },
+    "eyes": {
+      "title": "",
+      "position": "",
+      "content": "Dark red, steely",
+      "content_parsed": "Dark red, steely"
+    },
+    "hair": {
+      "title": "",
+      "position": "",
+      "content": "Long, white",
+      "content_parsed": "Long, white"
+    },
+    "skin": {
+      "title": "",
+      "position": "",
+      "content": "Pale white",
+      "content_parsed": "Pale white"
+    },
+    "height": {
+      "title": "",
+      "position": "",
+      "content": "2.05m",
+      "content_parsed": "2.05m"
+    },
+    "weight": {
+      "title": "",
+      "position": "",
+      "content": "130kg",
+      "content_parsed": "130kg"
+    },
+    "gender": {
+      "title": "",
+      "position": "",
+      "content": "Male",
+      "content_parsed": "Male"
+    },
+    "rpgAlignment": {
+      "title": "",
+      "position": "",
+      "content": "Rebel Good",
+      "content_parsed": "Rebel Good"
+    },
+    "currentstatus": {
+      "title": "",
+      "position": "",
+      "content": "Residing in the Reyal Imperium",
+      "content_parsed": "Residing in the Reyal Imperium"
+    },
+    "classification": {
+      "title": "",
+      "position": "",
+      "content": "Demigod",
+      "content_parsed": "Demigod"
+    }
+  },
+  "relations": {
+    "locations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+          "title": "Reyal Imperium",
+          "slug": "reyal-imperium-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/reyal-imperium-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    },
+    "church": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "751455ee-0181-4a0f-8bbc-3ba352247c19",
+        "title": "Sanguinalum",
+        "type": "organization",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "realm": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "6861b3b0-3330-44d7-a265-261683acdde6",
+        "title": "The Common Realm",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "organization": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "841b6ea8-8dc8-46e0-bcb2-03d64042172f",
+        "title": "Pact of Red",
+        "type": "organization",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "familyorganization": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "ad7922a4-7ef6-45d9-affc-7de9abcb10a7",
+        "title": "Sanguinous",
+        "type": "organization",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "currentLocation": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+        "title": "Reyal Imperium",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "foundedLocations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+          "title": "Reyal Imperium",
+          "slug": "reyal-imperium-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/reyal-imperium-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+          "title": "Sovereign",
+          "slug": "sovereign-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        },
+        {
+          "id": "31ac5e0b-43bd-4872-be46-9c71e1cfccaf",
+          "title": "sovereign-settlement-1-archived-1639611873sovereign-settlement-1-archived-1639611873",
+          "slug": "",
+          "url": "",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    },
+    "conditions": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "01468781-a163-448d-88c9-fd8ef90ad2d9",
+          "title": "Inperpetua",
+          "slug": "inperpetua-condition",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/inperpetua-condition",
+          "relationship_type": "article",
+          "type": "condition"
+        }
+      ]
+    },
+    "relatedorganizations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "843b7928-e3c2-44de-8a39-b8817e867071",
+          "title": "The Sovereign Authority",
+          "slug": "the-sovereign-authority-organization",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/the-sovereign-authority-organization",
+          "relationship_type": "article",
+          "type": "organization"
+        }
+      ]
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-person article-72d0df82-381c-497a-aad5-8c253121cf7d \">\n                \n            <div class=\"row \">\n        <div class=\"col-md-8 article-content-left \">\n                            <h3 class=\"person-fullname\">\n                    <span class=\"person-honorific\"></span><span class=\"person-firstname\"> </span><span class=\"person-middlename\"> </span><span class=\"person-lastname\"> </span>                     (He/him)   </h3>\n                        <div class=\"user-css-vignette\"></div>\n                                                                        \n                        \n            \n            \n            \n            \n            \n            \n                                    \n             \n            \n            \n            \n            \n            \n            \n            \n            \n\n                        \n                        \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                \n                                    <img class=\"character-article-portrait  img-fluid img-responsive m-b-20\" src=\"/uploads/images/037f2b4d99df12427b3af65d1a7da9a8.png\" alt=\"\">\n                \n                                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n\n                            <div id=\"ffa71f7ccb733557e2e8ed0766a9dcf3\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Divine Classification\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Demigod\n        </div>\n    </div>\n\n                        \n\n                            <div id=\"6d69450d0537dd61913f8adf3ec609f7\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Alignment\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Rebel Good\n        </div>\n    </div>\n\n                            <div id=\"d8104970ab28403a699cac2a21d862bc\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Current Status\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Residing in the Reyal Imperium\n        </div>\n    </div>\n\n                            <div id=\"fd85487811a43628b6caa4b0f7996a96\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Current Location\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\" data-template-type=\"settlement\"  class=\"article-link\" data-article=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\" href=\"/w/eldragiir/a/reyal-imperium-settlement\">Reyal Imperium</a>\n                     </div>\n    </div>\n                        \n                        \n                                                                            <div id=\"19b1c28f85819dc61a847e6fca243a06\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Conditions\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"e667971b67ccc3b52ea65b9491c15127\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"01468781-a163-448d-88c9-fd8ef90ad2d9\"\n                                    data-template-type=\"condition\"\n                                                                            class=\"article-link\" data-article=\"01468781-a163-448d-88c9-fd8ef90ad2d9\"\n                                                                        href=\"/w/eldragiir/a/inperpetua-condition\"   >Inperpetua</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n\n                        \n                        \n                            <div id=\"6b133906643174b805089019983c9408\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Realm\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"6861b3b0-3330-44d7-a265-261683acdde6\" data-template-type=\"location\"  class=\"article-link\" data-article=\"6861b3b0-3330-44d7-a265-261683acdde6\" href=\"/w/eldragiir/a/the-common-realm-location\">The Common Realm</a>\n                     </div>\n    </div>\n\n                            <div id=\"b365be0e789a162daa80775aa9341d35\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Church/Cult\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"751455ee-0181-4a0f-8bbc-3ba352247c19\" data-template-type=\"organization\"  class=\"article-link\" data-article=\"751455ee-0181-4a0f-8bbc-3ba352247c19\" href=\"/w/eldragiir/a/sanguinalum-organization\">Sanguinalum</a>\n                     </div>\n    </div>\n\n                        \n                        \n                        \n\n                        \n\n                        \n                            <div id=\"63fcf2951e73e29cacfdae0fe547731c\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Date of Birth\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            21st of Janar, 106 PrC\n        </div>\n    </div>\n                        \n\n                                                    <div id=\"Wilcok the Impenetrable73caab94a8b8e4f842f4ddaccee0b707\" class=\"visibility-toggler\">\n                                                                    <div class=\"section-title\">\n                                        <strong class=\"section-heading\">Year of Birth</strong>\n                                    </div>\n                                    <div class=\"section-payload\">\n\n                                                                                    106 PrC\n                                                                                                                                                                        <small><i class=\"fas fa-heartbeat\"></i> 318 Years old</small>\n                                                                            </div>\n                                                            </div>\n                        \n                        \n                        \n                                                \n                            <div id=\"540ef12e134be2125d754712248ca8d7\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Family\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"ad7922a4-7ef6-45d9-affc-7de9abcb10a7\" data-template-type=\"organization\"  class=\"article-link\" data-article=\"ad7922a4-7ef6-45d9-affc-7de9abcb10a7\" href=\"/w/eldragiir/a/sanguinous-organization\">Sanguinous</a>\n                     </div>\n    </div>\n\n                                                \n                        \n                        \n                        <div class=\"character-children\">\n    <div class=\"section-title\">\n        <strong class=\"section-heading\">\n            Children\n        </strong>\n    </div>\n    <div class=\"section-content\">\n        <ul class=\"list-unstyled\">\n                    </ul>\n    </div>\n</div>\n    <style>.character-children { display: none;  }</style>\n\n\n\n                        \n                            <div id=\"4cda3b749085019d424641e1fd72fa26\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Presented Sex\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Male\n        </div>\n    </div>\n\n                        \n                        \n                            <div id=\"8141f5f9313dca3283fc0c351912e7c2\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Eyes\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Dark red, steely\n        </div>\n    </div>\n\n                            <div id=\"2127852b3d352c495993c5e43baa1958\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Hair\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Long, white\n        </div>\n    </div>\n\n                            <div id=\"c66da9b9ef8d95770a4bcd9f09ae06cf\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Skin Tone/Pigmentation\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Pale white\n        </div>\n    </div>\n\n                            <div id=\"5c98d81e0174dee9c956a527638a2990\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Height\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            2.05m\n        </div>\n    </div>\n\n                            <div id=\"64033a5d350d4f29565a20593b769673\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Weight\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            130kg\n        </div>\n    </div>\n\n                        \n                        \n                        \n                            <div id=\"edac67bc170ce79ea7eadd3903578066\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Aligned Organization\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"841b6ea8-8dc8-46e0-bcb2-03d64042172f\" data-template-type=\"organization\"  class=\"article-link\" data-article=\"841b6ea8-8dc8-46e0-bcb2-03d64042172f\" href=\"/w/eldragiir/a/pact-of-red-organization\">Pact of Red</a>\n                     </div>\n    </div>\n\n                                                                            <div id=\"ae16940a22451b8db726f4de82c01305\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Other Affiliations\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"1f13fcd056389a002a4155256a3577dc\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"843b7928-e3c2-44de-8a39-b8817e867071\"\n                                    data-template-type=\"organization\"\n                                                                            class=\"article-link\" data-article=\"843b7928-e3c2-44de-8a39-b8817e867071\"\n                                                                        href=\"/w/eldragiir/a/the-sovereign-authority-organization\"   >The Sovereign Authority</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                        \n                        \n                         \n                        \n\n                                                                                                                        <div id=\"3bc4175b16e5c265e062d5d9db13680a\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Founded Settlements\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"f7df907d36a7c450f5db3b76145b3f8b\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\"\n                                                                        href=\"/w/eldragiir/a/reyal-imperium-settlement\"   >Reyal Imperium</a>\n                            </li>\n                                                                                                 <li id=\"2ab0c7db808e03e57f053ad1d4499378\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\"\n                                                                        href=\"/w/eldragiir/a/sovereign-settlement\"   >Sovereign</a>\n                            </li>\n                                                                                                         </ul>\n            </div>\n        </div>           \n    \n                        \n                        \n\n                                                \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                \n            </div>\n            </div>\n\n    </div>\n"
+}

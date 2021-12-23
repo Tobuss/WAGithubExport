@@ -1,5 +1,6 @@
 import axios from "axios";
 import fs from "fs";
+import download from "download";
 
 const instance = axios.create({
   baseURL: "https://www.worldanvil.com/api/aragorn",
@@ -23,18 +24,38 @@ const instance = axios.create({
 
   worlds.data.worlds.forEach(async (world) => {
     const articles = await instance.get(`/world/${world.id}/articles`);
+    const images = await instance.get(`/world/${world.id}/images`);
 
     articles.data.articles.forEach(async (article) => {
       const articleData = await instance.get(`/article/${article.id}`);
 
       fs.mkdirSync(
-        `./export/${article.world.name}/articles/${article.template_type}`,
+        `./export/${article.world.title}/articles/${article.template_type}`,
         { recursive: true }
       );
 
       fs.writeFileSync(
-        `./export/${article.world.name}/articles/${article.template_type}/${article.title}.json`,
+        `./export/${article.world.title}/articles/${article.template_type}/${article.title}.json`,
         JSON.stringify(articleData.data, null, 2)
+      );
+    });
+
+    images.data.images.forEach(async (image) => {
+      const imageData = await instance.get(`/image/${image.id}`);
+
+      fs.mkdirSync(`./export/${imageData.data.world.title}/images`, {
+        recursive: true,
+      });
+
+      let imageName = `${imageData.data.title}.${imageData.data.extension}`;
+
+      if (/(?:\.([^.]+))?$/.exec(imageData.data.title)[1]) {
+        imageName = imageData.data.title;
+      }
+
+      fs.writeFileSync(
+        `./export/${imageData.data.world.title}/images/${imageName}`,
+        await download(imageData.data.url)
       );
     });
   });

@@ -1,7 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "download": "^8.0.0"
   },
   "scripts": {
     "test": "export $(cat .env | xargs) && node main.js",

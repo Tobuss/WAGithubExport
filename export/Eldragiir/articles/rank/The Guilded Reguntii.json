@@ -1,0 +1,50 @@
+{
+  "id": "ad8dd99b-d276-4dae-b104-e0f5d7c1b825",
+  "title": "The Guilded Reguntii",
+  "template": "rank",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 12,
+  "creation_date": {
+    "date": "2021-12-21 01:24:46.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-22 21:30:47.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/the-guilded-reguntii-rank",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "38c9c91a-cd25-4f75-abb1-00179fbbda72",
+    "username": "grayherm",
+    "url": "http://www.worldanvil.com/author/grayherm"
+  },
+  "content": "Ruling governor of the Guilded Coast.",
+  "content_parsed": "Ruling governor of the Guilded Coast.",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-rank article-ad8dd99b-d276-4dae-b104-e0f5d7c1b825 \">\n                \n            <div class=\"row\">\n        <div class=\"col-md-8 article-content-left \">\n            <div class=\"user-css-vignette\">Ruling governor of the Guilded Coast.</div>\n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n            \n\n            \n        </div>\n                    <div class=\"col-md-4 article-content-right\">\n                                                                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                            </div>\n            </div>\n\n    </div>\n"
+}

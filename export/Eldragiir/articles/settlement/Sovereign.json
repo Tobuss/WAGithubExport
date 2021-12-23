@@ -1,0 +1,188 @@
+{
+  "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+  "title": "Sovereign",
+  "template": "settlement",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 57,
+  "creation_date": {
+    "date": "2021-12-15 23:45:04.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-15 23:51:35.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-settlement",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "061ff2ce-d0ad-41b8-b5f0-a36803ee461e",
+    "username": "zeurosa",
+    "url": "http://www.worldanvil.com/author/zeurosa",
+    "avatar": {
+      "id": 2811734,
+      "url": "http://www.worldanvil.com/uploads/images/af6dd777b8e415345a73bb53ba9b58f2.png"
+    }
+  },
+  "content": "Sovereign is the capital and largest city of Emperia. It stands on the River Haem in west Emperia at the head of a 60km estuary down to the Brazen Sea. The Reyal Imperium, its political core, was founded by the first Bloodfather Wilcok the Impenetrable in 5 PrC.",
+  "content_parsed": "Sovereign is the capital and largest city of Emperia. It stands on the River Haem in west Emperia at the head of a 60km estuary down to the Brazen Sea. The Reyal Imperium, its political core, was founded by the first Bloodfather Wilcok the Impenetrable in 5 PrC.",
+  "sections": {
+    "pronunciation": {
+      "title": "",
+      "position": "",
+      "content": "/ˈsɒvrɪn/",
+      "content_parsed": "/ˈsɒvrɪn/"
+    },
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    },
+    "population": {
+      "title": "",
+      "position": "",
+      "content": "10,400,000",
+      "content_parsed": "10,400,000"
+    },
+    "demonym": {
+      "title": "",
+      "position": "",
+      "content": "Sovereign Citizens",
+      "content_parsed": "Sovereign Citizens"
+    },
+    "constructed": {
+      "title": "",
+      "position": "",
+      "content": "5 PrC",
+      "content_parsed": "5 PrC"
+    }
+  },
+  "relations": {
+    "children": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+          "title": "Reyal Imperium",
+          "slug": "reyal-imperium-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/reyal-imperium-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    },
+    "claimedCapitals": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "843b7928-e3c2-44de-8a39-b8817e867071",
+          "title": "The Sovereign Authority",
+          "slug": "the-sovereign-authority-organization",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/the-sovereign-authority-organization",
+          "relationship_type": "article",
+          "type": "organization"
+        }
+      ]
+    },
+    "parent": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "b0e95fc9-523a-4f86-ba9f-2e8a53f9a4b4",
+        "title": "Ha'ven",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "type": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "808bee6b-9697-4956-a08e-b4fd89819b35",
+        "title": "Capital",
+        "type": "locationtype",
+        "relationship_type": "",
+        "state": "null"
+      }
+    },
+    "rank": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "145c528c-0add-49d6-a5c1-9df579f0caae",
+        "title": "Sovereign Protectorate",
+        "type": "rank",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "organization": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "843b7928-e3c2-44de-8a39-b8817e867071",
+        "title": "The Sovereign Authority",
+        "type": "organization",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "founders": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+          "title": "Wilcok the Impenetrable",
+          "slug": "wilcok-the-impenetrable-person",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/wilcok-the-impenetrable-person",
+          "relationship_type": "article",
+          "type": "person"
+        }
+      ]
+    },
+    "ranks": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "145c528c-0add-49d6-a5c1-9df579f0caae",
+          "title": "Sovereign Protectorate",
+          "slug": "sovereign-protectorate-rank",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/sovereign-protectorate-rank",
+          "relationship_type": "article",
+          "type": "rank"
+        }
+      ]
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-settlement article-81c1ca06-dd28-409b-82e0-a8a4801ac06b \">\n                \n            <div class=\"row\">\n        <div class=\"col-md-8 article-content-left \">\n            <div class=\"user-css-vignette\">Sovereign is the capital and largest city of Emperia. It stands on the River Haem in west Emperia at the head of a 60km estuary down to the Brazen Sea. The Reyal Imperium, its political core, was founded by the first Bloodfather Wilcok the Impenetrable in 5 PrC.</div>\n\n            \n             \n\n            \n             \n\n              \n\n              \n\n            \n               \n\n            \n            \n            \n            \n            \n            \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                                                \n\n\n                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n                                                <div>\n                                <div id=\"1aef5fe464f590cb4b230213ce25b159\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Founding Date\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            5 PrC\n        </div>\n    </div>\n\n                                                                                <div id=\"30b169c64bada7c137708b21cbfa3038\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Founders\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"005e6559f72a0fcec29b1642e45e2291\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                    data-template-type=\"person\"\n                                                                            class=\"article-link\" data-article=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                                                        href=\"/w/eldragiir/a/wilcok-the-impenetrable-person\"   >Wilcok the Impenetrable</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                            \n                                                                <div id=\"a0ebcabb1799a6617ad32fdf22247d2a\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Type\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Capital\n        </div>\n    </div>\n                            \n                                <div id=\"9440b2a415de1c76a48431abd9d8081e\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Population\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            10,400,000\n        </div>\n    </div>\n\n                            \n                                <div id=\"64670d89d6d5b9a3e9c07fb7ca256ff5\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Inhabitant Demonym\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Sovereign Citizens\n        </div>\n    </div>\n\n                                <div id=\"2b70630c96b78037ad3dde68a64dccd9\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Location under\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"b0e95fc9-523a-4f86-ba9f-2e8a53f9a4b4\" data-template-type=\"location\"  class=\"article-link\" data-article=\"b0e95fc9-523a-4f86-ba9f-2e8a53f9a4b4\" href=\"/w/eldragiir/a/ha-ven-location\">Ha&#039;ven</a>\n                     </div>\n    </div>\n\n                                                                                <div id=\"a6392f89c8d09340742d0e7ed9da7894\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Included Locations\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"f7df907d36a7c450f5db3b76145b3f8b\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\"\n                                    data-template-type=\"settlement\"\n                                                                            class=\"article-link\" data-article=\"fec77905-9b6c-4c3c-9c06-9a232a81e757\"\n                                                                        href=\"/w/eldragiir/a/reyal-imperium-settlement\"   >Reyal Imperium</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                            \n                            \n                                <div id=\"bd727f4ab348b6923a0eb668c9eadc97\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Ruling/Owning Rank\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"145c528c-0add-49d6-a5c1-9df579f0caae\" data-template-type=\"rank\"  class=\"article-link\" data-article=\"145c528c-0add-49d6-a5c1-9df579f0caae\" href=\"/w/eldragiir/a/sovereign-protectorate-rank\">Sovereign Protectorate</a>\n                     </div>\n    </div>\n\n                                <div id=\"38ed46d9d50210d04506fe6236777051\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Owning Organization\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"843b7928-e3c2-44de-8a39-b8817e867071\" data-template-type=\"organization\"  class=\"article-link\" data-article=\"843b7928-e3c2-44de-8a39-b8817e867071\" href=\"/w/eldragiir/a/the-sovereign-authority-organization\">The Sovereign Authority</a>\n                     </div>\n    </div>\n                                                                                    \n                            \n                                                        \n                            \n                            \n                            \n                            \n\n                            \n                        </div>\n\n                        \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                            </div>\n            </div>\n\n    </div>\n"
+}

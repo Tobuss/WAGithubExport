@@ -1,0 +1,67 @@
+{
+  "id": "fd6a79be-8389-4a7d-89e0-51feba4ffb7a",
+  "title": "Khekoud Aleborn",
+  "template": "person",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 5,
+  "creation_date": {
+    "date": "2021-12-21 01:27:40.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-21 01:27:40.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/khekoud-aleborn-person",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "38c9c91a-cd25-4f75-abb1-00179fbbda72",
+    "username": "grayherm",
+    "url": "http://www.worldanvil.com/author/grayherm"
+  },
+  "content": null,
+  "content_parsed": "",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    }
+  },
+  "relations": {
+    "locations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "a1898bc0-3f98-4b50-beec-1a39400d77b4",
+          "title": "Soubury",
+          "slug": "soubury-settlement",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/soubury-settlement",
+          "relationship_type": "article",
+          "type": "location"
+        }
+      ]
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-person article-fd6a79be-8389-4a7d-89e0-51feba4ffb7a \">\n                \n            <div class=\"row \">\n        <div class=\"col-md-8 article-content-left \">\n                        <div class=\"user-css-vignette\"></div>\n                                                                        \n                        \n            \n            \n            \n            \n            \n            \n                                    \n             \n            \n            \n            \n            \n            \n            \n            \n            \n\n                        \n                        \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                \n                \n                                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n\n                        \n                        \n\n                        \n                        \n                                                \n                        \n                        \n\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n\n                        \n\n                        \n                                                \n\n                        \n                        \n                        \n                                                \n                        \n                                                \n                        \n                        \n                        <div class=\"character-children\">\n    <div class=\"section-title\">\n        <strong class=\"section-heading\">\n            Children\n        </strong>\n    </div>\n    <div class=\"section-content\">\n        <ul class=\"list-unstyled\">\n                    </ul>\n    </div>\n</div>\n    <style>.character-children { display: none;  }</style>\n\n\n\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                         \n                        \n\n                        \n                        \n                        \n\n                                                \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                \n            </div>\n            </div>\n\n    </div>\n"
+}

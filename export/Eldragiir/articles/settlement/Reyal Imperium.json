@@ -1,0 +1,173 @@
+{
+  "id": "fec77905-9b6c-4c3c-9c06-9a232a81e757",
+  "title": "Reyal Imperium",
+  "template": "settlement",
+  "is_wip": true,
+  "is_draft": true,
+  "state": "public",
+  "wordcount": 31,
+  "creation_date": {
+    "date": "2021-12-15 23:51:49.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "update_date": {
+    "date": "2021-12-15 23:54:57.000000",
+    "timezone_type": 3,
+    "timezone": "UTC"
+  },
+  "publication_date": null,
+  "notification_date": null,
+  "tags": null,
+  "metadata_user": null,
+  "metadata_article": null,
+  "css_classes": null,
+  "css_styles": null,
+  "passcode": null,
+  "url": "http://www.worldanvil.com/w/eldragiir/a/reyal-imperium-settlement",
+  "world": {
+    "id": "2128f112-10c5-431a-a695-e32e4e730188",
+    "title": "Eldragiir",
+    "slug": "eldragiir",
+    "url": "http://www.worldanvil.com/w/eldragiir"
+  },
+  "author": {
+    "id": "061ff2ce-d0ad-41b8-b5f0-a36803ee461e",
+    "username": "zeurosa",
+    "url": "http://www.worldanvil.com/author/zeurosa",
+    "avatar": {
+      "id": 2811734,
+      "url": "http://www.worldanvil.com/uploads/images/af6dd777b8e415345a73bb53ba9b58f2.png"
+    }
+  },
+  "content": "The Reyal Imperium is a city, ceremonial ward, and imperial locality that contains the historic centre and political infrastructure of Sovereign.",
+  "content_parsed": "The Reyal Imperium is a city, ceremonial ward, and imperial locality that contains the historic centre and political infrastructure of Sovereign.",
+  "sections": {
+    "displaySidebar": {
+      "title": "",
+      "position": "",
+      "content": true,
+      "content_parsed": "1"
+    },
+    "alternativename": {
+      "title": "",
+      "position": "",
+      "content": "Heart of Sovereign",
+      "content_parsed": "Heart of Sovereign"
+    },
+    "population": {
+      "title": "",
+      "position": "",
+      "content": "1001",
+      "content_parsed": "1001"
+    },
+    "demonym": {
+      "title": "",
+      "position": "",
+      "content": "Reyalty",
+      "content_parsed": "Reyalty"
+    },
+    "constructed": {
+      "title": "",
+      "position": "",
+      "content": "5 PrC",
+      "content_parsed": "5 PrC"
+    }
+  },
+  "relations": {
+    "people": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+          "title": "Wilcok the Impenetrable",
+          "slug": "wilcok-the-impenetrable-person",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/wilcok-the-impenetrable-person",
+          "relationship_type": "article",
+          "type": "person"
+        }
+      ]
+    },
+    "includedOrganizations": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "843b7928-e3c2-44de-8a39-b8817e867071",
+          "title": "The Sovereign Authority",
+          "slug": "the-sovereign-authority-organization",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/the-sovereign-authority-organization",
+          "relationship_type": "article",
+          "type": "organization"
+        }
+      ]
+    },
+    "parent": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "81c1ca06-dd28-409b-82e0-a8a4801ac06b",
+        "title": "Sovereign",
+        "type": "location",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "type": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "9f342bff-25e0-4a42-8551-81b7db4732c6",
+        "title": "City",
+        "type": "locationtype",
+        "relationship_type": "",
+        "state": "null"
+      }
+    },
+    "person": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+        "title": "Wilcok the Impenetrable",
+        "type": "person",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "rank": {
+      "title": "",
+      "position": "sidebar",
+      "type": "singular",
+      "items": {
+        "id": "fea0c073-dbcc-4d85-995f-2630d6b927ba",
+        "title": "Bloodfather",
+        "type": "rank",
+        "relationship_type": "article",
+        "state": "public"
+      }
+    },
+    "founders": {
+      "title": "",
+      "position": "sidebar",
+      "type": "collection",
+      "items": [
+        {
+          "id": "72d0df82-381c-497a-aad5-8c253121cf7d",
+          "title": "Wilcok the Impenetrable",
+          "slug": "wilcok-the-impenetrable-person",
+          "url": "http://www.worldanvil.com/w/eldragiir/a/wilcok-the-impenetrable-person",
+          "relationship_type": "article",
+          "type": "person"
+        }
+      ]
+    }
+  },
+  "full_render": "<div class=\"api-loaded-article  page-article page-article-main template-settlement article-fec77905-9b6c-4c3c-9c06-9a232a81e757 \">\n                \n            <div class=\"row\">\n        <div class=\"col-md-8 article-content-left \">\n            <div class=\"user-css-vignette\">The Reyal Imperium is a city, ceremonial ward, and imperial locality that contains the historic centre and political infrastructure of Sovereign.</div>\n\n            \n             \n\n            \n             \n\n              \n\n              \n\n            \n               \n\n            \n            \n            \n            \n            \n            \n                    </div>\n                    <div class=\"col-md-4 article-content-right\">\n                                                \n\n\n                <div class=\"panel panel-default card mb-3\">\n                    <div class=\"panel-body card-body\">\n                        \n                                                <div>\n                                <div id=\"1aef5fe464f590cb4b230213ce25b159\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Founding Date\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            5 PrC\n        </div>\n    </div>\n\n                                                                                <div id=\"30b169c64bada7c137708b21cbfa3038\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Founders\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"005e6559f72a0fcec29b1642e45e2291\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                    data-template-type=\"person\"\n                                                                            class=\"article-link\" data-article=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                                                        href=\"/w/eldragiir/a/wilcok-the-impenetrable-person\"   >Wilcok the Impenetrable</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                                <div id=\"d98507b3be6f619e2e250525cb00fa73\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Alternative Name(s)\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Heart of Sovereign\n        </div>\n    </div>\n\n                                                                <div id=\"a0ebcabb1799a6617ad32fdf22247d2a\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Type\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            City\n        </div>\n    </div>\n                            \n                                <div id=\"9440b2a415de1c76a48431abd9d8081e\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Population\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            1001\n        </div>\n    </div>\n\n                            \n                                <div id=\"64670d89d6d5b9a3e9c07fb7ca256ff5\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Inhabitant Demonym\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n            Reyalty\n        </div>\n    </div>\n\n                                <div id=\"2b70630c96b78037ad3dde68a64dccd9\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Location under\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\" data-template-type=\"settlement\"  class=\"article-link\" data-article=\"81c1ca06-dd28-409b-82e0-a8a4801ac06b\" href=\"/w/eldragiir/a/sovereign-settlement\">Sovereign</a>\n                     </div>\n    </div>\n\n                            \n                                <div id=\"9145fe8ecd83e092f4081220f584d609\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Owner/Ruler\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"72d0df82-381c-497a-aad5-8c253121cf7d\" data-template-type=\"person\"  class=\"article-link\" data-article=\"72d0df82-381c-497a-aad5-8c253121cf7d\" href=\"/w/eldragiir/a/wilcok-the-impenetrable-person\">Wilcok the Impenetrable</a>\n                     </div>\n    </div>\n\n                            \n                                <div id=\"bd727f4ab348b6923a0eb668c9eadc97\" class=\"visibility-toggler\">\n        <div class=\"section-title\">\n            <strong class=\"section-heading\">\n                                    Ruling/Owning Rank\n                            </strong>\n        </div>\n        <div class=\"section-payload\">\n                                            <a data-article-privacy=\"public\" data-article-id=\"fea0c073-dbcc-4d85-995f-2630d6b927ba\" data-template-type=\"rank\"  class=\"article-link\" data-article=\"fea0c073-dbcc-4d85-995f-2630d6b927ba\" href=\"/w/eldragiir/a/bloodfather-rank\">Bloodfather</a>\n                     </div>\n    </div>\n\n                                                                                                                \n                                                                                <div id=\"f849f7511ff4d24583bff07ff3dc32e8\" class=\"visibility-toggler\">\n\n            <div class=\"section-title\">\n                <strong class=\"section-heading\">\n                                            Characters in Location\n                                    </strong>\n            </div>\n            <div class=\"section-payload\">\n                <ul class=\"list-unstyled mb-0 m-b-0\">\n                                                                         <li id=\"005e6559f72a0fcec29b1642e45e2291\" class=\"visibility-toggler\">\n\n                                \n                                <a  data-article-privacy=\"public\"\n                                    data-article-id=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                    data-template-type=\"person\"\n                                                                            class=\"article-link\" data-article=\"72d0df82-381c-497a-aad5-8c253121cf7d\"\n                                                                        href=\"/w/eldragiir/a/wilcok-the-impenetrable-person\"   >Wilcok the Impenetrable</a>\n                            </li>\n                                                            </ul>\n            </div>\n        </div>           \n    \n                                                        \n                            \n                            \n                            \n                            \n\n                            \n                        </div>\n\n                        \n                    </div>\n                </div>\n                \n    <div class=\"world-global-article-additional\">\n        \n    </div>\n                            </div>\n            </div>\n\n    </div>\n"
+}
